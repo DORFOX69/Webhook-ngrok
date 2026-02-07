@@ -8,7 +8,7 @@ function App() {
 
   return (
    <>
-     <p>Test 2</p>
+     <p>React app</p>
    </>
   )
 }
